@@ -19,7 +19,7 @@ Start Bootstrap was created by and is maintained by **David Miller**, Managing P
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller
 
-## Live Demo of Start Bootstrap
+## A Live Demo of Start Bootstrap
 
 * http://promoweb.github.io/startbootstrap/
 
